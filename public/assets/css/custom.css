@@ -1,0 +1,160 @@
+.w-4 {
+  width: 1rem;
+}
+
+.h-4 {
+  height: 1rem;
+}
+
+.w-6 {
+  width: 1.5rem;
+}
+
+.h-6 {
+  height: 1.5rem;
+}
+
+.dropzone {
+  background: white;
+  border-radius: 5px;
+  border: 2px dashed rgb(0, 135, 247);
+  border-image: none;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* my css */
+
+.result-textbox {
+  padding: 2px !important;
+  height: 25px !important;
+  border-radius: 2px !important;
+}
+
+.result-label {
+  color: #FFF;
+  font-size: 18px;
+}
+
+.bdr {
+  border-radius: 5px;
+}
+
+.result-num-box {
+  text-align: center;
+  width: 10%;
+  float: left;
+  padding: 2px;
+}
+
+
+.cus-view {
+  font-size: 16px !important;
+}
+
+.cus-view th {
+  font-size: 14px !important;
+}
+
+.cus-view td {
+  padding: 5px 5px !important;
+  text-align: center !important;
+}
+
+.cus-report {
+  font-size: 14px !important;
+}
+
+.cus-report th {
+  font-size: 14px !important;
+}
+
+.cus-report td {
+  padding: 5px 3px !important;
+  text-align: center !important;
+}
+
+.cus-purchase {
+  font-size: 15px !important;
+}
+
+.cus-purchase th {
+  font-size: 14px !important;
+}
+
+.cus-purchase td {
+  padding: 5px 5px !important;
+  text-align: center !important;
+}
+
+.cus-return {
+  font-size: 15px !important;
+}
+
+.cus-return th {
+  font-size: 14px !important;
+}
+
+.cus-return td {
+  padding: 5px 5px !important;
+  text-align: center !important;
+}
+
+
+/*Customer Panel*/
+
+.customer-all-purchases {
+  font-size: 15px !important;
+}
+
+.customer-all-purchases th {
+  font-size: 14px !important;
+}
+
+.customer-all-purchases td {
+  padding: 5px 5px !important;
+  text-align: center !important;
+}
+
+.customer-all-returns {
+  font-size: 15px !important;
+}
+
+.customer-all-returns th {
+  font-size: 14px !important;
+}
+
+.customer-all-returns td {
+  padding: 5px 5px !important;
+  text-align: center !important;
+}
+
+.customer-todaysreturn {
+  font-size: 15px !important;
+}
+
+.customer-todaysreturn th {
+  font-size: 14px !important;
+}
+
+.customer-todaysreturn td {
+  padding: 5px 5px !important;
+  text-align: center !important;
+}
+
+
+/*End Customer Panel*/
+
+.bg-report-color-green {
+  background-color: green;
+  color: #FFF;
+  font-weight: bold
+}
+
+.bg-report-color-red {
+  background-color: rgb(214, 13, 23);
+  color: #FFF;
+  font-weight: bold
+}
