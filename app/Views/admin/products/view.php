@@ -96,7 +96,7 @@
                             <?php
                             } else {
                             ?>
-                                <h1> No Records Found..</h1>
+                                <h1> No Record Found..</h1>
                             <?php
                             }
                             ?>
